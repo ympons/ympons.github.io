@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ympons.github.io/post/myhumblestartincs/</loc>
-    <lastmod>2016-08-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ympons.github.io/bookrack/</loc>
     <lastmod>2016-03-06T20:16:04+01:00</lastmod>
   </url>
@@ -23,23 +18,8 @@
   </url>
   
   <url>
-    <loc>https://ympons.github.io/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ympons.github.io/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ympons.github.io/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ympons.github.io/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://ympons.github.io/post/el-problema-cientifico/</loc>
+    <lastmod>2011-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -48,86 +28,50 @@
   </url>
   
   <url>
-    <loc>https://ympons.github.io/tags/computer-science/</loc>
-    <lastmod>2016-08-29T00:00:00+00:00</lastmod>
+    <loc>https://ympons.github.io/tags/ciencia/</loc>
+    <lastmod>2011-10-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ympons.github.io/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ympons.github.io/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ympons.github.io/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ympons.github.io/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ympons.github.io/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ympons.github.io/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ympons.github.io/categories/me/</loc>
-    <lastmod>2016-08-29T00:00:00+00:00</lastmod>
+    <loc>https://ympons.github.io/categories/investigacion/</loc>
+    <lastmod>2011-10-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ympons.github.io/post/</loc>
-    <lastmod>2016-08-29T00:00:00+00:00</lastmod>
+    <lastmod>2011-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ympons.github.io/tags/problema-cientifico/</loc>
+    <lastmod>2011-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ympons.github.io/tags/research/</loc>
+    <lastmod>2011-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ympons.github.io/categories/research/</loc>
+    <lastmod>2011-10-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ympons.github.io/tags/</loc>
-    <lastmod>2016-08-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ympons.github.io/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ympons.github.io/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2011-10-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ympons.github.io/</loc>
-    <lastmod>2016-08-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ympons.github.io/tags/ympons/</loc>
-    <lastmod>2016-08-29T00:00:00+00:00</lastmod>
+    <lastmod>2016-03-06T20:16:04+01:00</lastmod>
     <priority>0</priority>
   </url>
   
