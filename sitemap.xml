@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>https://ympons.github.io/post/la-ciencia/</loc>
+    <lastmod>2011-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ympons.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -52,14 +57,20 @@
   </url>
   
   <url>
+    <loc>https://ympons.github.io/categories/research/</loc>
+    <lastmod>2011-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ympons.github.io/tags/research/</loc>
     <lastmod>2011-10-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ympons.github.io/categories/research/</loc>
-    <lastmod>2011-10-13T00:00:00+00:00</lastmod>
+    <loc>https://ympons.github.io/tags/science/</loc>
+    <lastmod>2011-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
